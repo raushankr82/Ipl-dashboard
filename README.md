@@ -5,8 +5,10 @@ This repository contains an interactive Power BI project analyzing the Indian Pr
 The project includes multiple dashboards offering insights into player performance, match trends, team strategies, and batting/bowling records.
 
 # Dashboard Pages
+Dashboard powerBI file : 
 
 # 1. IPL Batting Analysis
+Screenshot of dashboard : ![Ipl batting analysis dashboard p-2](https://github.com/user-attachments/assets/4be001ff-21b3-45a2-a47f-da73a43e7603)
 ✅ Top 10 Run Scorers
 ✅ Most Wickets by Bowlers
 ✅ Total Sixes and Fours by Teams
@@ -15,7 +17,7 @@ The project includes multiple dashboards offering insights into player performan
 ✅ Most Extras Conceded by Bowlers
 
 # 2. IPL Match Overview
-
+Screenshot of dashboard : ![Ipl match overview dashboard p-1](https://github.com/user-attachments/assets/73acf908-cfc0-4bd2-ab3a-b5b2463f09d2)
 ✅ Most Successful Teams
 ✅ Win Percentage (Batting First vs Chasing)
 ✅ Matches Played per Venue
@@ -24,7 +26,7 @@ The project includes multiple dashboards offering insights into player performan
 ✅ Toss Decision Preference
 
 # 3. IPL Match Trends
-
+Screenshot of dashboard : ![Ipl match trends dashboard p-4](https://github.com/user-attachments/assets/d4f82a3d-f2b6-4f98-8629-a52f0f31353e)
 ✅ Average Target Runs by Team
 ✅ Toss Wins by Team
 ✅ Total Sixes and Fours by Season
@@ -33,7 +35,7 @@ The project includes multiple dashboards offering insights into player performan
 ✅ Total Runs by Season
 
 # 4. IPL Player Records
-
+Screenshot of dashboard :![Ipl player record dashboard p-3](https://github.com/user-attachments/assets/989a20f3-7d0b-4f83-adf0-c39a0b59e3d6)
 ✅ Best Bowling Figures in a Match
 ✅ Most Dismissals by Batter
 ✅ Best Economy Rates (Bowlers)
