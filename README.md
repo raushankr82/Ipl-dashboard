@@ -5,7 +5,7 @@ This repository contains an interactive Power BI project analyzing the Indian Pr
 The project includes multiple dashboards offering insights into player performance, match trends, team strategies, and batting/bowling records.
 
 # Dashboard Pages
-Dashboard powerBI file : 
+Dashboard powerBI file : https://github.com/raushankr82/Ipl-dashboard/blob/main/ipl%20dashboard.pbix
 
 # 1. IPL Batting Analysis
 Screenshot of dashboard : ![Ipl batting analysis dashboard p-2](https://github.com/user-attachments/assets/4be001ff-21b3-45a2-a47f-da73a43e7603)
